@@ -1,0 +1,6 @@
+C:\Users\katya\OneDrive\Рабочий стол\Patterns (private clinic)\FactoryMethod (train ticket)\bin\Debug\FactoryMethod (train ticket).exe.config
+C:\Users\katya\OneDrive\Рабочий стол\Patterns (private clinic)\FactoryMethod (train ticket)\bin\Debug\FactoryMethod (train ticket).exe
+C:\Users\katya\OneDrive\Рабочий стол\Patterns (private clinic)\FactoryMethod (train ticket)\bin\Debug\FactoryMethod (train ticket).pdb
+C:\Users\katya\OneDrive\Рабочий стол\Patterns (private clinic)\FactoryMethod (train ticket)\obj\Debug\FactoryMethod.csprojAssemblyReference.cache
+C:\Users\katya\OneDrive\Рабочий стол\Patterns (private clinic)\FactoryMethod (train ticket)\obj\Debug\FactoryMethod (train ticket).exe
+C:\Users\katya\OneDrive\Рабочий стол\Patterns (private clinic)\FactoryMethod (train ticket)\obj\Debug\FactoryMethod (train ticket).pdb

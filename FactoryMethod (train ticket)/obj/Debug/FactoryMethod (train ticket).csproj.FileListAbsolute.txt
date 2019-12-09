@@ -1,0 +1,13 @@
+D:\Patterns (private clinic)\FactoryMethod (train ticket)\bin\Debug\FactoryMethod (train ticket).exe.config
+D:\Patterns (private clinic)\FactoryMethod (train ticket)\bin\Debug\FactoryMethod (train ticket).exe
+D:\Patterns (private clinic)\FactoryMethod (train ticket)\bin\Debug\FactoryMethod (train ticket).pdb
+D:\Patterns (private clinic)\FactoryMethod (train ticket)\obj\Debug\FactoryMethod (train ticket).csprojAssemblyReference.cache
+D:\Patterns (private clinic)\FactoryMethod (train ticket)\obj\Debug\FactoryMethod (train ticket).csproj.CoreCompileInputs.cache
+D:\Patterns (private clinic)\FactoryMethod (train ticket)\obj\Debug\FactoryMethod (train ticket).exe
+D:\Patterns (private clinic)\FactoryMethod (train ticket)\obj\Debug\FactoryMethod (train ticket).pdb
+C:\Users\katya\OneDrive\Рабочий стол\Patterns (private clinic)\FactoryMethod (train ticket)\bin\Debug\FactoryMethod (train ticket).exe.config
+C:\Users\katya\OneDrive\Рабочий стол\Patterns (private clinic)\FactoryMethod (train ticket)\bin\Debug\FactoryMethod (train ticket).exe
+C:\Users\katya\OneDrive\Рабочий стол\Patterns (private clinic)\FactoryMethod (train ticket)\bin\Debug\FactoryMethod (train ticket).pdb
+C:\Users\katya\OneDrive\Рабочий стол\Patterns (private clinic)\FactoryMethod (train ticket)\obj\Debug\FactoryMethod (train ticket).csprojAssemblyReference.cache
+C:\Users\katya\OneDrive\Рабочий стол\Patterns (private clinic)\FactoryMethod (train ticket)\obj\Debug\FactoryMethod (train ticket).exe
+C:\Users\katya\OneDrive\Рабочий стол\Patterns (private clinic)\FactoryMethod (train ticket)\obj\Debug\FactoryMethod (train ticket).pdb

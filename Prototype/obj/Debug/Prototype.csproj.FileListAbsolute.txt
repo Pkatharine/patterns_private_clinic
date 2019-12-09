@@ -1,0 +1,13 @@
+D:\Patterns (private clinic)\Prototype\bin\Debug\Prototype.exe.config
+D:\Patterns (private clinic)\Prototype\bin\Debug\Prototype.exe
+D:\Patterns (private clinic)\Prototype\bin\Debug\Prototype.pdb
+D:\Patterns (private clinic)\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+D:\Patterns (private clinic)\Prototype\obj\Debug\Prototype.exe
+D:\Patterns (private clinic)\Prototype\obj\Debug\Prototype.pdb
+D:\Patterns (private clinic)\Prototype\obj\Debug\Prototype.csprojAssemblyReference.cache
+C:\Users\katya\OneDrive\Рабочий стол\Patterns (private clinic)\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\katya\OneDrive\Рабочий стол\Patterns (private clinic)\Prototype\bin\Debug\Prototype.exe
+C:\Users\katya\OneDrive\Рабочий стол\Patterns (private clinic)\Prototype\bin\Debug\Prototype.pdb
+C:\Users\katya\OneDrive\Рабочий стол\Patterns (private clinic)\Prototype\obj\Debug\Prototype.csprojAssemblyReference.cache
+C:\Users\katya\OneDrive\Рабочий стол\Patterns (private clinic)\Prototype\obj\Debug\Prototype.exe
+C:\Users\katya\OneDrive\Рабочий стол\Patterns (private clinic)\Prototype\obj\Debug\Prototype.pdb

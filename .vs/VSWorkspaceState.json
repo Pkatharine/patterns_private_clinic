@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AbstractFactory",
+    "\\Prototype",
+    "\\Singleton"
+  ],
+  "SelectedNode": "\\AbstractFactory\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

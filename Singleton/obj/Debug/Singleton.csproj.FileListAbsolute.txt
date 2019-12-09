@@ -1,0 +1,13 @@
+D:\Patterns (private clinic)\Singleton\bin\Debug\Singleton.exe.config
+D:\Patterns (private clinic)\Singleton\bin\Debug\Singleton.exe
+D:\Patterns (private clinic)\Singleton\bin\Debug\Singleton.pdb
+D:\Patterns (private clinic)\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+D:\Patterns (private clinic)\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+D:\Patterns (private clinic)\Singleton\obj\Debug\Singleton.exe
+D:\Patterns (private clinic)\Singleton\obj\Debug\Singleton.pdb
+C:\Users\katya\OneDrive\Рабочий стол\Patterns (private clinic)\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\katya\OneDrive\Рабочий стол\Patterns (private clinic)\Singleton\bin\Debug\Singleton.exe
+C:\Users\katya\OneDrive\Рабочий стол\Patterns (private clinic)\Singleton\bin\Debug\Singleton.pdb
+C:\Users\katya\OneDrive\Рабочий стол\Patterns (private clinic)\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+C:\Users\katya\OneDrive\Рабочий стол\Patterns (private clinic)\Singleton\obj\Debug\Singleton.exe
+C:\Users\katya\OneDrive\Рабочий стол\Patterns (private clinic)\Singleton\obj\Debug\Singleton.pdb

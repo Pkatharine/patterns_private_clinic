@@ -1,0 +1,13 @@
+D:\Patterns (private clinic)\Builder\bin\Debug\Builder.exe.config
+D:\Patterns (private clinic)\Builder\bin\Debug\Builder.exe
+D:\Patterns (private clinic)\Builder\bin\Debug\Builder.pdb
+D:\Patterns (private clinic)\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+D:\Patterns (private clinic)\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+D:\Patterns (private clinic)\Builder\obj\Debug\Builder.exe
+D:\Patterns (private clinic)\Builder\obj\Debug\Builder.pdb
+C:\Users\katya\OneDrive\Рабочий стол\Patterns (private clinic)\Builder\bin\Debug\Builder.exe.config
+C:\Users\katya\OneDrive\Рабочий стол\Patterns (private clinic)\Builder\bin\Debug\Builder.exe
+C:\Users\katya\OneDrive\Рабочий стол\Patterns (private clinic)\Builder\bin\Debug\Builder.pdb
+C:\Users\katya\OneDrive\Рабочий стол\Patterns (private clinic)\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+C:\Users\katya\OneDrive\Рабочий стол\Patterns (private clinic)\Builder\obj\Debug\Builder.exe
+C:\Users\katya\OneDrive\Рабочий стол\Patterns (private clinic)\Builder\obj\Debug\Builder.pdb
